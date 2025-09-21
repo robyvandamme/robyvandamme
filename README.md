@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I’m Roby, I’m a software developer and consultant.
+
+Some of the things I have been working on most recently around here:
+* [dotBump](https://github.com/robyvandamme/dotbump): a .NET tool to automate dependency upgrade tasks in .NET solutions
+* [dotADR](https://github.com/robyvandamme/dotadr): a .NET tool to create Architectural Decision Records in .NET solutions
+
 <!--
 **robyvandamme/robyvandamme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Get in touch
+
+[Drop me an email](mailto:hello@robyvandamme.com) - [Connect on LinkedIn](https://www.linkedin.com/in/robyvandamme)
